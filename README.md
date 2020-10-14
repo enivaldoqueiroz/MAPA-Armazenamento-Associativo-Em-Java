@@ -1,6 +1,6 @@
-# MAPA-Armazenamento Associativo em Java
+# MAPA - Armazenamento Associativo em Java
 
-## Mapa
+## Estrura de dados Mapa
 
 A primeira funcionalidade que precisamos na nossa estrutura e uma que faça as associações entre os
 elementos. Esta operação deve receber uma chave e um valor para criar a associação entre eles.
