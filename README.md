@@ -20,3 +20,5 @@ Os Mapas são as estruturas de dados que implementam o tipo de situação que es
 3) Remover uma associação dado uma chave.
 4) Verificar se existe uma associação para uma determinada chave.
 5) Informar a quantidade de associações.
+
+Será modelado uma estrutura de dados para ser utilizada em um sistema de armazenamento de registros de veículos o Detran.
