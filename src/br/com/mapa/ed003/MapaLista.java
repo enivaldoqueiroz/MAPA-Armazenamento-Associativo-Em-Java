@@ -16,7 +16,7 @@ public class MapaLista {
 	/*Metodo que percorre todas as associações para achar a desejada
 	Se a chave não estiver presente no Mapa uma exeção é lançada */
 	
-	public Carro pegar(String placa, Carro carro) {
+	public Carro pegar(String placa) {
 		for (Associacao associacao: this.associacoes) {
 			if (placa.equals(associacao.getPlaca())) {
 				return associacao.getCarro();
