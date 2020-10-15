@@ -22,3 +22,7 @@ Os Mapas são as estruturas de dados que implementam o tipo de situação que es
 5) Informar a quantidade de associações.
 
 Será modelado uma estrutura de dados para ser utilizada em um sistema de armazenamento de registros de veículos o Detran.
+
+![](https://github.com/enivaldoqueiroz/MAPA-Armazenamento-Associativo-Em-Java/blob/main/imagens/001_img.png)
+
+![](https://github.com/enivaldoqueiroz/MAPA-Armazenamento-Associativo-Em-Java/blob/main/imagens/002_img.png)
