@@ -1,8 +1,8 @@
-package br.com.mapa.ed002;
+package br.com.mapa.ed003;
 
 public class Carro {
 	
-	private String nome;
+private String nome;
 	
 	public Carro() {
 		
@@ -23,5 +23,4 @@ public class Carro {
 	public String toString() {
 		return "Carro: " + this.nome;
 	}
-
 }
