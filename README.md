@@ -23,6 +23,16 @@ Os Mapas são as estruturas de dados que implementam o tipo de situação que es
 
 Será modelado uma estrutura de dados para ser utilizada em um sistema de armazenamento de registros de veículos o Detran.
 
+## Evidência após teste com 1000, 10000 e 1000000 de elementos.
+
+### Teste com 1000 Elementos
+
 ![](https://github.com/enivaldoqueiroz/MAPA-Armazenamento-Associativo-Em-Java/blob/main/imagens/001_img.png)
 
+### Teste com 10000 Elementos
+
 ![](https://github.com/enivaldoqueiroz/MAPA-Armazenamento-Associativo-Em-Java/blob/main/imagens/002_img.png)
+
+### Teste com 1000000 Elementos
+
+![](https://github.com/enivaldoqueiroz/MAPA-Armazenamento-Associativo-Em-Java/blob/main/imagens/005_img.png)
