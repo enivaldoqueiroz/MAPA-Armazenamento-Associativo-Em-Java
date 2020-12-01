@@ -5,7 +5,7 @@ public class TesteTempoMapaLista {
 	public static void main(String[] args) {
 
 		MapaLista mapaLista = new MapaLista();
-		int numeroDeElementos = 1000000;
+		int numeroDeElementos = 10000;
 		long inicio = System.currentTimeMillis();
 		
 		for (int i = 0; i < numeroDeElementos; i++) {
