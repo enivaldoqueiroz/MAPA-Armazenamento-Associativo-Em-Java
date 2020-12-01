@@ -1,4 +1,4 @@
-# MAPA - Armazenamento Associativo em Java
+# MAPA - CONSTRUÇÃO E ANALISE DE ALGORITMOS
 
 ![](https://github.com/enivaldoqueiroz/MAPA-Armazenamento-Associativo-Em-Java/blob/main/imagens/006_img.png)
 ![](https://github.com/enivaldoqueiroz/MAPA-Armazenamento-Associativo-Em-Java/blob/main/imagens/007_img.png)
